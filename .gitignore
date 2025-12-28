@@ -1,0 +1,4 @@
+*.bats
+HELP.md
+Thumbs.db
+bats-extra.bash
